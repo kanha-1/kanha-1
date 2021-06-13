@@ -25,6 +25,6 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   </p>
-<div style='display:flex'>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahnu-sahoo-au6&show_icons=true&locale=en" alt="kahnu-sahoo-au6" width='50%' /></div>
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kahnu-sahoo-au6&show_icons=true&locale=en" alt="kahnu-sahoo-au6" width='50%' /></p>
+
