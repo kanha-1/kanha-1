@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
-##  My Github Status
+<!-- ##  My Github Status -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kahnu-sahoo-au6&theme=tokyonight_duo&hide_border=true)] -->
 
 ## My skills
