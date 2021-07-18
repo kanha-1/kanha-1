@@ -3,7 +3,7 @@
 
 
 <!-- ##  My Github Status -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kahnu-sahoo-au6&theme=tokyonight_duo&hide_border=true)] -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kahnu-sahoo-au6&theme=tokyonight_duo&hide_border=true)]
 
 ## My skills
 
