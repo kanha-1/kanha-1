@@ -2,7 +2,7 @@
 <!-- ##  My Github Status -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kahnu-sahoo-au6&theme=tokyonight_duo&hide_border=true)] -->
 
-## My skills
+## My skills ---- that I hate the most
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
