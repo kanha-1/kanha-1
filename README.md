@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kahnu-sahoo-au6&label=Profile%20views&color=0e75b6&style=flat" alt="kahnu-sahoo-au6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha-16&label=Profile%20views&color=0e75b6&style=flat" alt="kahna-1" /> </p>
 <!-- ##  My Github Status -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kahnu-sahoo-au6&theme=tokyonight_duo&hide_border=true)] -->
 
